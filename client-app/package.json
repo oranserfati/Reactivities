@@ -12,13 +12,14 @@
   },
   "dependencies": {
     "@types/react-calendar": "^3.9.0",
-    "axios": "^1.7.7",
+    "axios": "^0.21.4",
     "mobx": "^6.13.2",
     "mobx-react-lite": "^4.0.7",
     "react": "^18.3.1",
     "react-calendar": "^5.0.0",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
+    "react-toastify": "^10.0.5",
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.5",
     "uuid": "^10.0.0"
